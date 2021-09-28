@@ -1,2 +1,3 @@
 # Use-turtle-to-print-Chinese-National-flag
 使用Python3的turtle库画中国国旗
+妈妈的，我吐了
